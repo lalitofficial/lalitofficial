@@ -7,7 +7,7 @@
 
 A Software Engineer proficient in web development, Animation and always Curious to explore.
 
-- 🏢 I'm currently a CEO of [Aiforkids](https://aiforkids.in/) and [Pyranic Learning](https://pyranic.com/)
+- 🏢 I'm currently CEO of [Aiforkids](https://aiforkids.in/) and [Pyranic Learning](https://pyranic.com/)
 - 🎨 Check out my profile [LalitOfficial](https://linkedin/in/lalitofficial)
 
 
