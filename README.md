@@ -1,4 +1,4 @@
-### Hi, I am Lalit <img src="https://raw.githubusercontent.com/lalitofficial/lalitofficial/master/wave.gif" width="30px">
+### Hi, I am Lalit 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lalitofficial)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lalitofficial/)
 <!--[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sudonitin)-->
