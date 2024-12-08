@@ -3,7 +3,6 @@
 
 👨🏻 **Name**: Lalit Kumar
 
-🎗️ **Positions**: CEO and CTO (Pyranic.com), CEO (Aiforkids.in), CEO (hackisfun.com)
 
 ✅ **Github**: https://github.com/lalitofficial
 
