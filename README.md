@@ -1,7 +1,7 @@
 ## Hi, I am Lalit Kumar
 <hr>
 
-👨🏻 **Name**: Lalit Kumar
+👨🏻 **Name**: Lalit Kumar | lalitkumar.org
 
 
 ✅ **Github**: https://github.com/lalitofficial
@@ -10,7 +10,7 @@
 
 ✅ **Instagram**: https://instagram.com/lalitkofficial
 
-📩 **Email**: lalitkumar@pyranic.com
+📩 **Email**: lalitkofficial@gmail.com
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lalitofficial)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lalitofficial/)
