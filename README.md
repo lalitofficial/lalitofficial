@@ -10,8 +10,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalitofficial&label=Profile%20Views&color=22D3EE&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/lalitkumar?label=Followers&style=flat-square&color=22D3EE"/>
+  <img src="https://komarev.com/ghpvc/?username=lalitofficial&label=Profile%20Views&color=22D3EE&style=flat-square&base=1000"/>
+  <img src="https://img.shields.io/github/followers/lalitofficial?label=Followers&style=flat-square&color=22D3EE"/>
 </p>
 
 ---
