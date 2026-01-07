@@ -1,5 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
+    <filter id="cyanGlow">
+  <feGaussianBlur stdDeviation="1.2" result="blur"></feGaussianBlur>
+  <feMerge>
+    <feMergeNode in="blur"></feMergeNode>
+    <feMergeNode in="SourceGraphic"></feMergeNode>
+  </feMerge>
+</filter>
+
     <!-- Background -->
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0" stop-color="#020617"></stop>
@@ -123,13 +131,7 @@
   Hey,
 </text><text x="202" y="130" font-size="66" fill="#E5E7EB" font-weight="700" letter-spacing="0.5">&nbsp;I'm Lalit Kumar</text>
     <text x="72" y="190" font-size="22" fill="#94A3B8">Quant Finance • Machine Learning • AI Systems</text>
-  </g><filter id="cyanGlow">
-  <feGaussianBlur stdDeviation="1.2" result="blur"></feGaussianBlur>
-  <feMerge>
-    <feMergeNode in="blur"></feMergeNode>
-    <feMergeNode in="SourceGraphic"></feMergeNode>
-  </feMerge>
-</filter>
+  </g>
 
 
 
