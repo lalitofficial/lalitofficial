@@ -1,115 +1,156 @@
-<!-- ===================== CUSTOM CYBER BANNER ===================== -->
+<!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,100:111827&height=220&section=header&text=Lalit%20Kumar&fontSize=42&fontColor=00E5FF&animation=fadeIn&desc=Quant%20Finance%20|%20ML%20Engineering%20|%20AI%20Systems&descAlignY=70"/>
+  <img src="./banner.svg" alt="Lalit Kumar — Quant Finance | Machine Learning | AI Systems" />
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Quant+Finance+%7C+Alpha+Research;Machine+Learning+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI;Systems+Thinker+%26+Fast+Builder"/>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Quant+Finance+%7C+Systematic+Research;Machine+Learning+Engineer+%7C+Production+Systems;Alpha+Signals+%7C+Microstructure+%7C+Evaluation;LLMs+%7C+RAG+%7C+Agentic+Workflows)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalitofficial&label=Profile%20Views&color=00E5FF&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/lalitofficial?label=Followers&style=flat-square&color=00E5FF"/>
+  <img src="https://komarev.com/ghpvc/?username=lalitofficial&label=Profile%20Views&color=22D3EE&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/lalitkumar?label=Followers&style=flat-square&color=22D3EE"/>
 </p>
 
 ---
 
-## 🧠 Profile Snapshot (Recruiter View)
+## 🚀 About Me
 
-```txt
-Role Fit     : Quant Research | ML Engineer | AI Systems Engineer
-Core Strength: Mathematical modeling + scalable ML systems
-Edge         : Combines finance intuition with production AI
-```
+I work at the intersection of **quantitative finance** and **machine learning**, building **signal-driven research systems** and **production-grade ML/AI pipelines**.
+
+- 🔭 Focused on **alpha research**, **signal engineering**, and **ML/LLM systems**
+- 🧠 Interested in **market microstructure** and **evaluation metrics**
+- 🧰 Build **end-to-end pipelines** (data → research → backtest → deploy/monitor)
+- 💬 Python, backtesting, ML systems, RAG/LLMs, MLOps, Docker/K8s
 
 ---
 
-## 📈 Quant Finance Focus
+## 📊 Quant Finance (What desks care about)
 
-- 🧮 Alpha research (short-term, sector-neutral, microstructure-based)
-- 📊 Signal engineering: reversals, momentum, liquidity, volatility
-- ⚖️ Metrics: Sharpe, Fitness, Turnover, Drawdown, IC
-- 🌍 Platforms: WorldQuant BRAIN, Python research stacks
+- **Alpha research:** short-horizon, market & sector neutral
+- **Signal classes:** momentum, reversal, liquidity, volatility
+- **Evaluation:** Sharpe, IC, turnover, drawdown, fitness
+- **Microstructure:** OFI, Kyle’s Lambda, liquidity impact
+- **Platforms:** WorldQuant BRAIN, custom Python backtests
 
 <p>
-  <img src="https://img.shields.io/badge/Quant-Alpha%20Research-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WorldQuant-BRAIN-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Alpha%20Research-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Market%20Microstructure-6366F1?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🤖 Machine Learning & AI Systems
 
-- End-to-end ML pipelines (data → training → deployment)
-- LLMs, RAG systems, agentic workflows
-- MLOps: versioning, monitoring, rollback, inference optimization
-- Cloud-native, container-first mindset
+- End-to-end ML pipelines (training → inference → monitoring)
+- LLM systems: **RAG, agents, evaluation**
+- Model versioning, rollback, latency & cost awareness
+- Cloud-native, container-first systems
 
 ---
+## 🛠️ Technical Stack
 
-## ⚙️ Technical Stack
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,js"/>
-
-### ML / AI
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-<img src="https://img.shields.io/badge/LLMs-GPT%20%7C%20RAG%20%7C%20Agents-111827?style=flat-square&color=00E5FF"/>
-
-### Data / Quant
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square"/>
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square"/>
-
-### Systems & Infra
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git"/>
-
----
-
-## 🧪 Selected Projects
-
-| Project | Focus |
-|-------|------|
-| Quant Alpha Research | Short-horizon signals & factor testing |
-| AI Document Intelligence | RAG + agentic decision pipelines |
-| ML Systems Playground | End-to-end ML infra experiments |
-| AIforKids (Founder) | Scalable AI education platform |
-
----
-
-## 📊 GitHub Analytics (Dark Cyber)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitofficial&show_icons=true&theme=tokyonight&hide_border=true"/>
+<h3 >Core</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash,linux,git&perline=12" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitofficial&theme=tokyonight&hide_border=true"/>
+<h3 >Quant / Data</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <!-- NOTE: skillicons may not have pandas/numpy/matplotlib as icons. If not, remove them. -->
+    <img src="https://skillicons.dev/icons?i=python,,postgres&perline=12" />
+  </a>
+</p>
+<p >
+    <img src="https://img.shields.io/badge/Polars-DataFrames-0B1224?style=flat-square&logo=polars&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Backtesting-Custom%20Engines-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Signals-Alpha%20Research-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microstructure-OFI%20%7C%20Impact-6366F1?style=flat-square"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitofficial&layout=compact&theme=tokyonight&hide_border=true"/>
+<h3 >ML / Deep Learning</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=12" />
+  </a>
+</p>
+<p >
+  <img src="https://img.shields.io/badge/Validation-Walk--Forward%20%7C%20CV-22D3EE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Evaluation-Metrics%20%7C%20Ablations-22D3EE?style=flat-square"/>
+</p>
+
+<h3 >LLMs / GenAI</h3>
+<p align="">
+  <img src="https://img.shields.io/badge/LangChain-Framework-0B1224?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-RAG%20Toolkit-0B1224?style=for-the-badge&logo=llamaindex&logoColor=white" />
+  </p>
+<p align="">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-0B1224?style=for-the-badge&logo=vectorworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agents-Orchestration-0B1224?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<h3 >Infra / MLOps</h3>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&perline=12" />
+  </a>
+</p>
+<p >
+  <img src="https://img.shields.io/badge/MLOps-Tracking%20%7C%20Monitoring-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deployments-Containers%20%7C%20Cloud-38BDF8?style=flat-square"/>
 </p>
 
 ---
 
-## 📐 Contribution Graph
+## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitofficial&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitofficial&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar&theme=tokyonight&hide_border=true" height="175"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lalitofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitofficial&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🌐 Connect With Me
 
-```txt
-Signal > Noise
-Systems > Scripts
-Consistency > Intensity
-```
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-lalitkumar.org-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lalitkumar.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalitofficial)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalitkofficial@gmail.com)
+
+</div>
+
 ---
 
-<p align="center">
-  <b>Built for quant desks, ML teams, and serious systems 🚀</b>
-</p>
+<div align="center">
+
+### 💡 *“Chasing signal. Building systems.”*
+
+</div>
