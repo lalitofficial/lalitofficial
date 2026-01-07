@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lalitkumar&label=Profile%20Views&color=00E5FF&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/lalitkumar?label=Followers&style=flat-square&color=00E5FF"/>
+  <img src="https://komarev.com/ghpvc/?username=lalitofficial&label=Profile%20Views&color=00E5FF&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/lalitofficial?label=Followers&style=flat-square&color=00E5FF"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ Edge         : Combines finance intuition with production AI
 ## ⚙️ Technical Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,js"/>
 
 ### ML / AI
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
@@ -80,15 +80,15 @@ Edge         : Combines finance intuition with production AI
 ## 📊 GitHub Analytics (Dark Cyber)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitofficial&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitofficial&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitofficial&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Edge         : Combines finance intuition with production AI
 ## 📐 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitkumar&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitofficial&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
