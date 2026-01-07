@@ -129,7 +129,7 @@
   <g font-family="Arial, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
     <text x="72" y="130" font-size="66" fill="#22D3EE" font-weight="700" letter-spacing="0.6" filter="url(#cyanGlow)">
   Hey,
-</text><text x="202" y="130" font-size="66" fill="#E5E7EB" font-weight="700" letter-spacing="0.5">I'm Lalit Kumar</text>
+</text><text x="202" y="140" font-size="66" fill="#E5E7EB" font-weight="700" letter-spacing="0.5">I'm Lalit Kumar</text>
     <text x="72" y="190" font-size="22" fill="#94A3B8">Quant Finance • Machine Learning • AI Systems</text>
   </g>
 
