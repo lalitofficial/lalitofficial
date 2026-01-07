@@ -1,6 +1,6 @@
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lalitofficial/lalitofficial/main/banner.svg" alt="banner" />
+  <img src="https://raw.githubusercontent.com/lalitofficial/lalitofficial/refs/heads/main/banner.svg" alt="banner" />
 </p>
 
 <div align="center">
