@@ -124,9 +124,9 @@ I work at the intersection of **quantitative finance** and **machine learning**,
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lalitofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&cache_seconds=86400"/>
 </div>
--->
-
 ---
+
+-->
 
 ## 📈 Activity Graph
 
