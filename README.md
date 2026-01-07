@@ -110,8 +110,8 @@ I work at the intersection of **quantitative finance** and **machine learning**,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-by-lalit-38.vercel.app/api?username=lalitofficial&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats-by-lalit-38.vercel.app/api/top-langs/?username=lalitofficial&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://readme-stats-lalit.vercel.app/api?username=lalitofficial&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://readme-stats-lalit.vercel.app/api/top-langs/?username=lalitofficial&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-phi.vercel.app?user=lalitofficial&theme=tokyonight&hide_border=true&cache_seconds=86400" height="175"/>
@@ -119,12 +119,12 @@ I work at the intersection of **quantitative finance** and **machine learning**,
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lalitofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&cache_seconds=86400"/>
 </div>
-
+-->
 
 ---
 
