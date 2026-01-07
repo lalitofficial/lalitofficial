@@ -1,6 +1,6 @@
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
-  <img src="./banner.svg" alt="Lalit Kumar — Quant Finance | Machine Learning | AI Systems" />
+  <img src="https://raw.githubusercontent.com/lalitofficial/lalitofficial/main/banner.svg" alt="banner" />
 </p>
 
 <div align="center">
